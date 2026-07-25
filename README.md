@@ -110,14 +110,3 @@ Performance is compared with:
 - Equal Weight Portfolio
 - Static 60/40 Portfolio
 
----
-
-## Future Improvements
-
-Some possible extensions include:
-
-- Alternative market features
-- Different numbers of HMM states
-- Additional asset classes
-- Alternative optimisation objectives
-- Rolling parameter tuning
